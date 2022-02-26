@@ -1,3 +1,18 @@
+#SCRIPT : Find all image files in your file system with a size greater than 10 kb and which name contain any vowels. 
+#Our Approach: 
+#tasks:
+
+#-user chooses the path where it needs to find the file
+#-user can also choose to save the output file in another file
+#-user enters file size; case to select size range
+#-user chooses file extension; case to select extensions
+
+#outline:
+
+#-functions used
+#-find command to filter file choices
+#-while loop & case used
+
 #!/bin/bash
 path1=/home/dhruv/Pictures
 path2=/home/dhruv/Music
