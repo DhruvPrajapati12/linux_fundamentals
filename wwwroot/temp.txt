@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 bin
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 dev
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 etc
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 sbin
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 temp
+-rw-rw-r-- 1 dhruv dhruv    0 Feb 19 13:39 temp.txt
+drwxrwxr-x 2 dhruv dhruv 4096 Feb 19 12:37 var
